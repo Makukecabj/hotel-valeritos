@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Hotel Valeritos",
+    "short_name": "Hotel Valeritos",
+    "tagline": "Hotel Valeritos · Ecuador",
+    "description": "Todo lo que buscás para viajar tranquilo, en Hotel Valeritos.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Ecuador · KM 1 VIA DATA-POSORJA BARRIO SAN JACINTO CALLE P-2 Y CALLEJON P-2 MZ 35 SOLAR 11",
+    "title_line1": "Disfrutá",
+    "title_em": "Hotel Valeritos",
+    "title_line2": "en Ecuador",
+    "subtitle": "WiFi, cocina equipada, terraza y pileta. Todo cerca."
+  },
+  "location": {
+    "address": "KM 1 VIA DATA-POSORJA BARRIO SAN JACINTO CALLE P-2 Y CALLEJON P-2 MZ 35 SOLAR 11, 092150 Gral Villamil, Ecuador",
+    "district": "Ecuador",
+    "city": "Ecuador",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "KM 1 VIA DATA-POSORJA BARRIO SAN JACINTO CALLE P-2 Y CALLEJON P-2 MZ 35 SOLAR 11, 092150 Gral Villamil, Ecuador, Ecuador",
+    "map_embed": "https://maps.google.com/maps?q=KM+1+VIA+DATA-POSORJA+BARRIO+SAN+JACINTO+CALLE+P-2+Y+CALLEJON+P-2+MZ+35+SOLAR+11%2C+092150+Gral+Villamil%2C+Ecuador%2C+Ecuador&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Ecuador. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/593985759243",
+    "phone": "+593985759243",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Hotel+Valeritos/data=!4m10!3m9!1s0x90326c381c124959:0x70a8c53f34e371f!5m2!4m1!1i2!8m2!3d-2.6456101!4d-80.3814218!16s%2Fg%2F11g9qwg3dy!19sChIJWUkSHDhsMpARHzdO81OMCgc?authuser=0&hl=es&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Hotel+Valeritos/data=!4m10!3m9!1s0x90326c381c124959:0x70a8c53f34e371f!5m2!4m1!1i2!8m2!3d-2.6456101!4d-80.3814218!16s%2Fg%2F11g9qwg3dy!19sChIJWUkSHDhsMpARHzdO81OMCgc?authuser=0&hl=es&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Así es Hotel Valeritos.",
+    "paragraphs": [
+      "Somos un hostel chico en Ecuador con mucho corazón. En Hotel Valeritos vas a encontrar pileta, parrilla, cocina, WiFi y la mejor onda para que tu viaje sea inolvidable."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Consultas al instante por WhatsApp",
+    "El precio que ves es el que pagás",
+    "Te recomendamos los mejores lugares de la zona"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Todo para que descanses",
+      "description": "Camas buenas, ambiente tranquilo, a dormir tranquilo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi que no falla",
+      "description": "Mandá audios, subí reels, todo funciona.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Ubicación ideal",
+      "description": "Cerca de lo que necesitás, lejos de lo que no.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Cuánto queda para la playa/centro?",
+      "answer": "A pocas cuadras, caminando llegás en 5 minutos."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿Tienen aire acondicionado?",
+      "answer": "Sí, en verano estás fresquito sin problema."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Hotel Valeritos",
+    "copyright": "© 2026 Hotel Valeritos. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Hotel Valeritos",
+        "short_name": "Hotel Valeritos",
+        "tagline": "Hotel Valeritos · Accommodation",
+        "description": "Everything you need to travel easy, at Hotel Valeritos.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Ecuador · KM 1 VIA DATA-POSORJA BARRIO SAN JACINTO CALLE P-2 Y CALLEJON P-2 MZ 35 SOLAR 11",
+        "title_line1": "Stay at",
+        "title_em": "Hotel Valeritos",
+        "title_line2": "",
+        "subtitle": "Rest, explore and experience Ecuador from Hotel Valeritos."
+      },
+      "about": {
+        "eyebrow": "Our story",
+        "title": "Hotel Valeritos, your base in Ecuador.",
+        "paragraphs": [
+          "Hotel Valeritos is a family-run hostel in Ecuador, run by its owners. We offer private and shared rooms, free WiFi, a fully equipped kitchen, pool and BBQ. We're in the city center, close to everything you need."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Ecuador. Close to the best attractions."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I bring my pet?",
+          "answer": "Ask us, sometimes we can make it work. We don't say no right away."
+        },
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "Are towels provided?",
+          "answer": "Message us, we usually have towels available to lend."
+        },
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "We reply the same day",
+        "Book direct, no commission",
+        "Personalized attention"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        }
+      ],
+      "footer": {
+        "description": "Hotel Valeritos",
+        "copyright": "© 2026 Hotel Valeritos. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hotel",
+        "name": "Hotel Valeritos",
+        "description": "Hotel Valeritos, tu alojamiento ideal en Ecuador.",
+        "url": "",
+        "telephone": "+593985759243",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Hotel+Valeritos/data=!4m10!3m9!1s0x90326c381c124959:0x70a8c53f34e371f!5m2!4m1!1i2!8m2!3d-2.6456101!4d-80.3814218!16s%2Fg%2F11g9qwg3dy!19sChIJWUkSHDhsMpARHzdO81OMCgc?authuser=0&hl=es&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "KM 1 VIA DATA-POSORJA BARRIO SAN JACINTO CALLE P-2 Y CALLEJON P-2 MZ 35 SOLAR 11, 092150 Gral Villamil, Ecuador",
+          "addressLocality": "Ecuador",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Todo para que descanses",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi que no falla",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Ubicación ideal",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cuánto queda para la playa/centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pocas cuadras, caminando llegás en 5 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen aire acondicionado?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en verano estás fresquito sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
